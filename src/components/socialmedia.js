@@ -19,7 +19,7 @@ class SocialMedia extends React.Component{
             <table>
                 <tbody>
                     
-                    <tr><IconContext.Provider value={{ size: "5em", color: "#002e06" }}>
+                    <tr><IconContext.Provider value={{ size: "5em", color: "#003607" }}>
                         <div>
                         
                         <td><a href="https://facebook.com/freddybihozagara"><AiFillFacebook/></a> </td>

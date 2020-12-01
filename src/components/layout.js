@@ -40,7 +40,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <SocialMedia/>
       <footer>
-      <IconContext.Provider value={{ size: "10em", color: "#002e06" }}>
+      <IconContext.Provider value={{ size: "10em", color: "#003607" }}>
         <div>
         <a href="https://reactjs.org/"><GrReactjs/></a>
         <a href="https://nodejs.org/"><GrNode/></a>
