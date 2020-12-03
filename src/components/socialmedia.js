@@ -9,22 +9,27 @@ import { IconContext } from "react-icons";
 
 class SocialMedia extends React.Component{
 
+        state={
+
+            facebook: "https://facebook.com/freddybihozagara",
+            instagram: "https://instagram.com/freddybihozagara",
+            twitter: "https://twitter.com/Fbihozagara"
+        }
+
   
     render(){
 
         return(
 
             <div>
-                
+            
             <table>
                 <tbody>
-                    
                     <tr><IconContext.Provider value={{ size: "5em", color: "#003607" }}>
-                        <div>
-                        
-                        <td><a href="https://facebook.com/freddybihozagara"><AiFillFacebook/></a> </td>
-                        <td><a href="https://instagram.com/freddybihozagara"><AiFillInstagram/></a> </td>
-                        <td><a href="https://twitter.com/Fbihozagara"><AiFillTwitterCircle/></a> </td>
+                        <div>                    
+                        <td><a href={this.state.facebook}><AiFillFacebook/></a> </td>
+                        <td><a href={this.state.instagram}><AiFillInstagram/></a> </td>
+                        <td><a href={this.state.twitter}><AiFillTwitterCircle/></a> </td>
                     </div>
                     </IconContext.Provider>
                     
