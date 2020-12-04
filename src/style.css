@@ -244,7 +244,7 @@ a:focus {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
-  background-color: #2f3b4c;
+  background-color: #6394b4;
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
