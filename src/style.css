@@ -55,7 +55,7 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #003607;
-  --color-text: #2e353f;
+  --color-text: #242424;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
   --color-heading-black: #003607;
@@ -248,6 +248,7 @@ a:focus {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
   padding: var(--spacing-10) var(--spacing-5);
+  background-color: #ffffff;
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
