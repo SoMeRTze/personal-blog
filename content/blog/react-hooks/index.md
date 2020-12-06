@@ -32,22 +32,31 @@ function Counter() {
 
 `
 
-Class based components reqiure the use of classes, hence
+Class based components require the use of classes, hence
 
-they may take more time to define. However, it is
-
-always good to start with class components, i find,
+they may take more time to write. 
 
 
-As developers we must not forget that we are dealing with OOP.
+However, it is always good to start with class components.
+
+
+As developers we must not forget that we are dealing with
+
+classes and objects.
+
 
 It is always good to err on the side of more OOP than the
 
 other way.
 
 
+With class based components, as soon as we make use of
+
+a constructor, we know that there is a class that inherits
+
+from a super class. 
 
 
 
 
-[https://react-hooks.org/]
+For more on React Hooks: [https://react-hooks.org/]
