@@ -4,7 +4,7 @@ date: "2020-12-05T22:12:03.284Z"
 description: "React Hooks vs class based components"
 ---
 
-
+```
 React Hooks are a new addition in React 16.8. They allow the 
 
 use of state without writing a class.
@@ -12,7 +12,7 @@ use of state without writing a class.
 
 Example:
 ```
-`
+
 import React, { useState } from 'react';
 
 function Counter() {
@@ -29,7 +29,7 @@ function Counter() {
   );
 }
 
-`
+
 ```
 
 Class based components require the use of classes, hence

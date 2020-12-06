@@ -12,7 +12,13 @@ In JavaScript, JSX double brackets {{ foo: bar }} are used
 when passing object litterals to an element.
 
 
-Example: <div style={{ color: blue}}></div>
+Example: 
+
+```
+
+<div style={{ color: blue}}></div>
+
+```
 
 
 JSX is a syntax exension to JavaScript.
