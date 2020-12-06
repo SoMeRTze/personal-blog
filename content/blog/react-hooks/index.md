@@ -1,18 +1,17 @@
 ---
-title: React Hooks VS class based components
+title: React Hooks vs class based components
 date: "2020-12-05T22:12:03.284Z"
-description: "React Hooks VS class based components"
+description: "React Hooks vs class based components"
 ---
 
 
-```
-
-Hooks are a new addition in React 16.8. They allow the 
+React Hooks are a new addition in React 16.8. They allow the 
 
 use of state without writing a class.
 
 
 Example:
+```
 `
 import React, { useState } from 'react';
 
@@ -31,6 +30,7 @@ function Counter() {
 }
 
 `
+```
 
 Class based components require the use of classes, hence
 
