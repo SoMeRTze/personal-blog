@@ -5,8 +5,6 @@ description: "JSX and double brackets"
 ---
 
 
-```
-
 In JavaScript, JSX double brackets {{ foo: bar }} are used 
 
 when passing object litterals to an element.

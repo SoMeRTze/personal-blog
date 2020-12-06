@@ -4,13 +4,14 @@ date: "2020-12-05T22:12:03.284Z"
 description: "React Hooks vs class based components"
 ---
 
-```
+
 React Hooks are a new addition in React 16.8. They allow the 
 
 use of state without writing a class.
 
 
 Example:
+
 ```
 
 import React, { useState } from 'react';
