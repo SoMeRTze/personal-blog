@@ -24,4 +24,4 @@ Example:
 JSX is a syntax exension to JavaScript.
 
 
-[https://jsx.github.io/]
+For more on JSX: [https://jsx.github.io/](https://jsx.github.io)
