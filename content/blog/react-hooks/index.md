@@ -12,8 +12,8 @@ use of state without writing a class.
 
 Example:
 
-```
-// for example, when updating state for a counter function when calling onclick()
+```js:
+// for example, when updating state, for a counter function, while calling onclick()
 
 import React, { useState } from 'react';
 

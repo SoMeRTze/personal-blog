@@ -12,7 +12,7 @@ when passing object literals to an element.
 
 Example: 
 
-```
+```js:
 // for example, when passing the color attribute to style inline, as an object literal
 
 <div style={{ color: blue}}></div>
