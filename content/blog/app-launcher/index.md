@@ -26,18 +26,18 @@ Categories=Application
 
 ```
 
-**Version:** App version
-**Name:** App name
-**Comment:** describes app
-**Exec:** command
-**Icon:** path to icon
-**Terminal:** true or false
-**Type:** Application
+**Version:** App version,
+**Name:** App name,
+**Comment:** describes app,
+**Exec:** command,
+**Icon:** path to icon,
+**Terminal:** true or false,
+**Type:** Application,
 **Categories:** description
 
 
 
-**step 3.** save the file with a .destop extension, on the desktop
+**step 3.** save the file with a **.destop** extension, on the desktop
 
 **step 4.** make the file executable
 
