@@ -22,7 +22,7 @@ Manual setup, Type:
 in your project folder:
 
 
-Open package.json and add the following scripts:
+Open **package.json** and add the following scripts:
 
 ```
 "scripts": {
@@ -35,7 +35,7 @@ Open package.json and add the following scripts:
 
 Create a pages directory inside your project.
 
-Populate ./pages/index.js with the following contents:
+Populate **./pages/index.js** with the following contents:
 
 ```
 function HomePage() {
@@ -46,7 +46,7 @@ export default HomePage
 
 ```
 
-To start developing your application run npm run dev
+To start developing your application type **npm run dev**
 
 Visit http://localhost:3000 to view your application.
 
