@@ -8,7 +8,6 @@ description: "The [Desktop ] utility allows developers to create desktop applica
 Syntax
 
 Example:
-
 **step 1.** Open an empty file
 
 **step 2.** write your specs as follows
@@ -37,7 +36,7 @@ Categories=Application
 
 
 
-**step 3.** save the file with a **.destop** extension, on the desktop
+**step 3.** save the file with a **.desktop** extension, on the desktop
 
 **step 4.** make the file executable
 
