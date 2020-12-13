@@ -1,5 +1,5 @@
 ---
-title: desktop launcher
+title: Desktop launcher
 date: "2020-12-12T22:12:03.284Z"
 description: "The [Desktop ] utility allows developers to create desktop application launchers for custom scripts."
 ---
