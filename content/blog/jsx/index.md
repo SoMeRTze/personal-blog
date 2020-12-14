@@ -21,7 +21,7 @@ Example:
 ```
 
 
-JSX is a syntax exension to JavaScript.
+JSX is a syntax extension to JavaScript.
 
 
 For more on JSX: [https://reactjs.org/](https://reactjs.org/)
