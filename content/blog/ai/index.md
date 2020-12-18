@@ -7,9 +7,9 @@ description: "Artificial Intelligence will out think, out innovate, and our stra
 
 
 Artificial Intelligence Will Change Human So Society So Profoundly Humans Will Stop Thinking
-By [https://EzineArticles.com/expert/Lance_Winslow/5306](https://EzineArticles.com/) Lance Winslow 
+By [https://EzineArticles.com](Lance Winslow) 
 
-Artificial Intelligence will out think, out innovate, and our strategize humans at all levels. One of the biggest challenges in the clash between AI and humans when it comes to innovation and human intellect - consider this; In the future Artificial Intelligence will be running our society and civilization with the most expedient and efficient methods and processes. Humans will be expected to follow these new norms that the AI systems have created simply because they are deemed to be the very best strategies for the most optimum gain. 
+Artificial Intelligence will out think, out innovate, and out strategize humans at all levels. One of the biggest challenges in the clash between AI and humans when it comes to innovation and human intellect - consider this; In the future Artificial Intelligence will be running our society and civilization with the most expedient and efficient methods and processes. Humans will be expected to follow these new norms that the AI systems have created simply because they are deemed to be the very best strategies for the most optimum gain. 
 
 The number of potential answers for everything, every question that is, will be reduced to one best answer, with exact answers for slight derivations which will also have a single right answer. Humans will be expected to trust AI answers over their own thoughts and reason, thus, humans will eventually stop thinking and reasoning - losing the ability to come up with novel ideas and concepts or new solutions to problems all together. Just as domesticated animals have smaller brains than their wild animal counterparts with the same exact genetic sequence - when it comes to the brain; you use it or lose it. 
 
