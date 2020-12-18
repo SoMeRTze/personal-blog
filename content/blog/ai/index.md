@@ -7,7 +7,7 @@ description: "Artificial Intelligence will out think, out innovate, and our stra
 
 
 Artificial Intelligence Will Change Human So Society So Profoundly Humans Will Stop Thinking
-By [https://EzineArticles.com](Lance Winslow) 
+By [https://EzineArticles.com/](Lance Winslow) 
 
 Artificial Intelligence will out think, out innovate, and out strategize humans at all levels. One of the biggest challenges in the clash between AI and humans when it comes to innovation and human intellect - consider this; In the future Artificial Intelligence will be running our society and civilization with the most expedient and efficient methods and processes. Humans will be expected to follow these new norms that the AI systems have created simply because they are deemed to be the very best strategies for the most optimum gain. 
 
