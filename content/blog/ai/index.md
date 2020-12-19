@@ -6,7 +6,7 @@ description: "Artificial Intelligence will out think, out innovate, and our stra
 
 
 
-Artificial Intelligence Will Change Human So Society So Profoundly Humans Will Stop Thinking
+Artificial Intelligence Will Change Human Society So Profoundly Humans Will Stop Thinking.
 By [Lance Winslow](https://EzineArticles.com/LanceWinslow) 
 
 Artificial Intelligence will out think, out innovate, and out strategize humans at all levels. One of the biggest challenges in the clash between AI and humans when it comes to innovation and human intellect - consider this; In the future Artificial Intelligence will be running our society and civilization with the most expedient and efficient methods and processes. Humans will be expected to follow these new norms that the AI systems have created simply because they are deemed to be the very best strategies for the most optimum gain. 
@@ -21,5 +21,5 @@ So is 'ignorance bliss' - hard to say, but we may find out as a species soon eno
 
 Lance Winslow has launched a new provocative series of eBooks on [http://amazon.com](https://www.amazon.com/s/ref=sr_il_ti_digital-text?rh=n%3A133140011%2Ck%3ALance+Winslow%5Cc&keywords=Lance+Winslow%2C&ie=UTF8&qid=1359796846&lo=digital-text#/ref=nb_sb_noss?url=search-alias%3Ddigital-text&field-keywords=Lance+Winslow%2Cfuture+concepts&lo=digital-text&rh=n%3A133140011%2Ck%3ALance+Winslow%5Ccfuture+concepts) Future Concepts. Lance Winslow is a retired Founder of a Nationwide Franchise Chain, and now runs the Online Think Tank; http://www.worldthinktank.net
 
-Article Source: [https://EzineArticles.com/?Artificial-Intelligence-Will-Change-Human-So-Society-So-Profoundly-Humans-Will-Stop-Thinking&id=10003958](https://EzineArticles.com/) Artificial Intelligence Will Change Human So Society So Profoundly Humans Will Stop Thinking
+Article Source: [https://EzineArticles.com/](https://EzineArticles.com/?Artificial-Intelligence-Will-Change-Human-So-Society-So-Profoundly-Humans-Will-Stop-Thinking&id=10003958) Artificial Intelligence Will Change Human So Society So Profoundly Humans Will Stop Thinking
 
