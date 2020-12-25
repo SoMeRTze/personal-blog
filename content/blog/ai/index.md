@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence Will Change Human Society So Profoundly Humans Will Stop Thinking
 date: "2020-12-16T22:12:03.284Z"
-description: "Artificial Intelligence will out think, out innovate, and our strategize humans at all levels. One of the biggest challenges in the clash between AI and humans when it comes to innovation and human intellect. "
+description: "Artificial Intelligence will out think, out innovate, and out strategize humans at all levels. One of the biggest challenges in the clash between AI and humans when it comes to innovation and human intellect. "
 ---
 
 
