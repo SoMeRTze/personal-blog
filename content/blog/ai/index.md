@@ -21,5 +21,5 @@ So is 'ignorance bliss' - hard to say, but we may find out as a species soon eno
 
 Lance Winslow has launched a new provocative series of eBooks on [http://amazon.com](https://www.amazon.com/s/ref=sr_il_ti_digital-text?rh=n%3A133140011%2Ck%3ALance+Winslow%5Cc&keywords=Lance+Winslow%2C&ie=UTF8&qid=1359796846&lo=digital-text#/ref=nb_sb_noss?url=search-alias%3Ddigital-text&field-keywords=Lance+Winslow%2Cfuture+concepts&lo=digital-text&rh=n%3A133140011%2Ck%3ALance+Winslow%5Ccfuture+concepts) Future Concepts. Lance Winslow is a retired Founder of a Nationwide Franchise Chain, and now runs the Online Think Tank; http://www.worldthinktank.net
 
-Article Source: [https://EzineArticles.com/](https://EzineArticles.com/?Artificial-Intelligence-Will-Change-Human-So-Society-So-Profoundly-Humans-Will-Stop-Thinking&id=10003958) Artificial Intelligence Will Change Human So Society So Profoundly Humans Will Stop Thinking
+Article Source: [https://EzineArticles.com/](https://EzineArticles.com/?Artificial-Intelligence-Will-Change-Human-So-Society-So-Profoundly-Humans-Will-Stop-Thinking&id=10003958) Artificial Intelligence Will Change Human Society So Profoundly Humans Will Stop Thinking
 
