@@ -1,7 +1,7 @@
 ---
 title: NextJs
 date: "2020-12-12T22:12:03.284Z"
-description: "NextJs is a React framework that allows for both static & server side rendering, has TypeScript support, smart bundling, route pre-fetching, and more.
+description: "NextJs is a React framework that allows for both static & server side rendering, has TypeScript support, smart bundling, route pre-fetching, and more ..
 "
 ---
 
@@ -17,7 +17,7 @@ or
 
 Manual setup, Type:
 
-**Install next, react and react-dom** 
+**Install next, react and react-dom**
 
 in your project folder:
 

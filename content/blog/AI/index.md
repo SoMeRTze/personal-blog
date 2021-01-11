@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence (AI)
 date: "2021-01-06T22:12:03.284Z"
-description: "Artificial intelligence (AI), is intelligence demonstrated by machines, unlike human intelligence, which involves consciousness and emotions. The distinction between the former and the latter categories is often revealed by chosen "
+description: "Artificial intelligence (AI), is intelligence demonstrated by machines, unlike human intelligence, which involves consciousness and emotions. The distinction between the former and the latter categories is often revealed by .."
 ---
 
 
