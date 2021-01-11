@@ -1,33 +1,33 @@
 ---
 title: ReactJS
 date: "2020-11-28T22:40:32.169Z"
-description: "A JavaScript library for building user interfaces."
+description: " ReactJs is an open-source, JavaScript library for building user interfaces or UI components. ReactJS can be used as a base in the development of single-page applications or mobile apps.."
 ---
 
 ```
 
-React (also known as React.js or ReactJS) is an open-source, 
+React (also known as React.js or ReactJS) is an open-source,
 
-front end, JavaScript library[3] for building user interfaces 
+front end, JavaScript library[3] for building user interfaces
 
-or UI components. 
-
-
-It is maintained by Facebook and a community of individual 
-
-developers and companies. 
+or UI components.
 
 
+It is maintained by Facebook and a community of individual
 
-React can be used as a base in the development of single-page 
-
-or mobile applications. 
+developers and companies.
 
 
 
-React usually requires the use of additional libraries for state 
+React can be used as a base in the development of single-page
 
-management and routing. Redux and React Router are respective 
+or mobile applications.
+
+
+
+React usually requires the use of additional libraries for state
+
+management and routing. Redux and React Router are respective
 
 examples of such libraries.
 
