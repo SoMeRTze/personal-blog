@@ -1,7 +1,7 @@
 ---
 title: ReactJS
 date: "2020-11-28T22:40:32.169Z"
-description: " ReactJs is an open-source, JavaScript library for building user interfaces or UI components. ReactJS can be used as a base in the development of single-page applications or mobile apps.."
+description: " ReactJs is an open-source, JavaScript library for building user interfaces or UI components. ReactJS can be used as a base in the development of single-page applications or mobile apps .."
 ---
 
 ```
