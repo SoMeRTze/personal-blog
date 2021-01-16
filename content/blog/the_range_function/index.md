@@ -29,15 +29,15 @@ range(-10, -100, -30)
 ```
 
 ```
->>> a = ['Mary', 'had', 'a', 'little', 'lamb']
+>>> a = ['Mary', 'had', 'a', 'big', 'lamp']
 >>> for i in range(len(a)):
 ...     print(i, a[i])
 ...
 0 Mary
 1 had
 2 a
-3 little
-4 lamb
+3 big
+4 lamp
 ```
 
 ```
