@@ -4,7 +4,6 @@ date: "2021-01-10T22:12:03.284Z"
 description: "If you do need to iterate over a sequence of numbers, the built-in function range() comes in handy. It generates arithmetic progressions: .."
 ---
 
-
 If you do need to iterate over a sequence of numbers, the built-in python function range() comes in handy. It generates arithmetic progressions:
 
 ```
