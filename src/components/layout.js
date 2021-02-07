@@ -40,10 +40,10 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <SocialMedia/>
       <footer>
-      <did>
-      <h3>DIsclaimer: All views expressed on this blog are solely my own and do not represent the opinions of any entity i am affiliated with or have been affiliated with.</h3>
-      </div>
       <IconContext.Provider value={{ size: "10em", color: "#003607" }}>
+        <did>
+        <h3><i>Disclaimer: All views expressed on this blog are solely my own and do not represent the opinions of any entity i am affiliated with or have been affiliated with.</i></h3>
+        </div>
         <div>
         <a href="https://reactjs.org/"><GrReactjs/></a>
         <a href="https://nodejs.org/"><GrNode/></a>

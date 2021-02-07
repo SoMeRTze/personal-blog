@@ -28,6 +28,9 @@ Currently as we speak, no one is immune to financial markets manipulation, even 
 
 The good news is that, in one month, the entire world just had a crash course in financial markets 101.
 
+```
+**Disclaimer: All views expressed in this article are my own and do not constitute an investment advice.**
+```
 
 
 Source: [https://freddybihozagara.netlify.app/](https://freddybihozagara.netlify.app/)
