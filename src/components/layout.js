@@ -50,7 +50,7 @@ const Layout = ({ location, title, children }) => {
         <a href="https://graphql.org/"><SiGraphql/></a>
         <a href="https://sqlite.org/"><DiSqllite/></a>
         <a href="https://www.netlify.com/"><SiNetlify/></a>
-        </div>
+
         <div>
 
         © {new Date().getFullYear()}, Built with
