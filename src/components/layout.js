@@ -40,6 +40,9 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <SocialMedia/>
       <footer>
+      <did>
+      <h3>DIsclaimer: All views expressed on this blog are solely my own and do not represent the opinions of any entity i am affiliated with or have been affiliated with.</h3>
+      </div>
       <IconContext.Provider value={{ size: "10em", color: "#003607" }}>
         <div>
         <a href="https://reactjs.org/"><GrReactjs/></a>
@@ -53,7 +56,7 @@ const Layout = ({ location, title, children }) => {
         <a href="https://www.netlify.com/"><SiNetlify/></a>
         </div>
         <div>
-        
+
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com"><GrGatsbyjs/></a>
