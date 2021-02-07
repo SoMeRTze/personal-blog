@@ -26,8 +26,6 @@ One way for the everyday Joe, to hedge, is to diversify their portfolio by picki
 
 Currently as we speak, no one is immune to financial markets manipulation, even options trading is not immune. In fact it doesn't matter what bets one makes, in the end, order flow data gives an advantage to whoever is on the other side. Just for illustration, suppose an investor buys a put option or call option on TSLA for a maturity date X. if in fact a hedge fund knows what the bets are in advance, they can pick and choose winners and losers in the market, as they have billions of dollars on hand to invest and can drive a stock price higher or lower if they choose so, if they happen to have an agreement with other hedge funds to do the same on date X.
 
-In a sense, WallStreetBets (WSB) won, just in one month the whole world just had a crash course in the ins and outs of the financial markets.
-
 
 
 
