@@ -41,10 +41,6 @@ const Layout = ({ location, title, children }) => {
       <SocialMedia/>
       <footer>
       <IconContext.Provider value={{ size: "10em", color: "#003607" }}>
-        <did>
-        <h3><i>Disclaimer: All views expressed on this blog are solely my own and do not represent the opinions of any entity i am affiliated with or have been affiliated with.</i></h3>
-        </div>
-        <div>
         <a href="https://reactjs.org/"><GrReactjs/></a>
         <a href="https://nodejs.org/"><GrNode/></a>
         <a href="https://www.typescriptlang.org/"><SiTypescript/></a>
@@ -60,6 +56,9 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com"><GrGatsbyjs/></a>
+        </div>
+        <div>
+        <h3><i>Disclaimer: All views expressed on this blog are solely my own, and do not represent the opinions of any entity i am affiliated with.</i></h3>
         </div>
         </IconContext.Provider>
       </footer>
