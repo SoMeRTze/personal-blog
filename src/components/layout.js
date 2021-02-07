@@ -39,6 +39,9 @@ const Layout = ({ location, title, children }) => {
       <SocialMedia/>
       <main>{children}</main>
       <SocialMedia/>
+      <div>
+      <h4><i>Disclaimer: All views expressed on this blog are solely my own, and do not represent the opinions of any entity i am affiliated with.</i></h4>
+      </div>
       <footer>
       <IconContext.Provider value={{ size: "10em", color: "#003607" }}>
         <a href="https://reactjs.org/"><GrReactjs/></a>
