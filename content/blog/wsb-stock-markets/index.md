@@ -7,10 +7,10 @@ description: "If you haven't noticed, the Month of January was all about Gamesto
 If you haven't noticed, the Month of January was all about Gamestop (GME) and the high volatility in the financial markets. so what are the key takeaways for investors..
 
 Number 1.
-The zero commission trading platforms business model is build on selling its users data, i.e order flows to its clients (ex: hedge funds).
+The zero commission trading platforms business model is built on selling its users data (order flows) to its clients the hedge funds.
 
 Number 2.
-The high volatility in the financial markets is orchestrated. For Example, when WallStreetBets (WSB) drove up share prices of Gamestop (GME), AMC and others, there were winners and losers. However, due to the nature of the business model of trading platforms such as Robinhood, it became apparent very soon that hedge funds such as Citadel and others were not going to allow the free market to be free anymore, as they watched their collegue Melvin Capital go down and had to be rescued with billions of dollars.
+The high volatility in the financial markets is orchestrated. For Example, when WallStreetBets (WSB) drove up share prices of Gamestop (GME), AMC and others, there were winners and losers. However, due to the nature of the business model of trading platforms such as Robinhood, it became apparent very soon that hedge funds such as Citadel and others were not going to allow the free market to be free anymore, as they watched Melvin Capital go down, and had to be rescued with billions of dollars.
 
 They forced Robinhood to put limits on how many shares of Gamestop (GME) and AMC could be bought; at one point they totally removed the ability for its users to buy, and only allowed them to sell, which is pure manipulation. The only reason they would do that is to force the share price of Gamestop (GME) and AMC to go down, hereby allowing short sellers, i.e hedge funds that had heavily shorted Gamestop (GME) and AMC to close their positions and recoup some of their losses, while millions of small investors lost their capital due to this manipulation, because they couldn't buy any share of Gamestop (GME) and AMC, but were only allowed to sell.
 
