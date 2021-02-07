@@ -60,9 +60,7 @@ const Layout = ({ location, title, children }) => {
         {` `}
         <a href="https://www.gatsbyjs.com"><GrGatsbyjs/></a>
         </div>
-        <div>
-        <h3><i>Disclaimer: All views expressed on this blog are solely my own, and do not represent the opinions of any entity i am affiliated with.</i></h3>
-        </div>
+      
         </IconContext.Provider>
       </footer>
     </div>
